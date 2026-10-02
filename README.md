@@ -76,9 +76,6 @@ Estou construindo minha base em **Java, lógica e orientação a objetos**, tran
   <img src="https://github-readme-stats.vercel.app/api?username=Henry-DevStack&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=DF4962&amp;icon_color=A68CDE&amp;text_color=C9D1D9&amp;locale=pt-br" width="54%" alt="Estatísticas públicas de Henry-DevStack" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-DevStack&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=DF4962&amp;text_color=C9D1D9&amp;langs_count=6&amp;locale=pt-br" width="44%" alt="Linguagens presentes nos repositórios públicos" />
 </p>
-<p align="center">
-  <a href="https://github.com/Henry-DevStack"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Henry-DevStack&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=DF4962&amp;point=A68CDE&amp;area=true&amp;area_color=DF4962&amp;hide_border=true&amp;custom_title=One%20commit%20at%20a%20time" width="100%" alt="Gráfico da atividade pública recente no GitHub" /></a>
-</p>
 
 <p align="center">
   <img src="assets/outro.svg" width="100%" alt="学び続ける — Continuar aprendendo. Um commit de cada vez." />
