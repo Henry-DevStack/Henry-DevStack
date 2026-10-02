@@ -12,8 +12,6 @@
 
 ### 🌘 &nbsp; About me · はじめまして
 
-<img src="assets/mascote.png" align="right" width="145" alt="Meu mascote: gatinho de mechas vermelhas, fones roxos e Monster Mango Loco." />
-
 **Oi, sou o Henry.** Estudante de ADS e futuro desenvolvedor backend.
 
 Estou construindo minha base em **Java, lógica e orientação a objetos**, transformando o que aprendo em projetos. Busco minha primeira oportunidade em TI e gosto de entender como cada parte do código funciona.
